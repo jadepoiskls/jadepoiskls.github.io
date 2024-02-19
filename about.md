@@ -6,8 +6,8 @@ permalink: /about/
 
 You can visit my site here:
 
-Mod Games [visit here](https://jadepoiskls.blogspot.com) <br>
-HD Movies [visit here](https://poisklss.blogspot.com)
+Mod Games: [visit here](https://jadepoiskls.blogspot.com) <br>
+HD Movies: [visit here](https://poisklss.blogspot.com)
 
 
 ### More Information
