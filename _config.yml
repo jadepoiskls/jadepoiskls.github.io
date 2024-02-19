@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: jadepoisk@gmail.com
+  facebook: poiskls
   flickr:
-  github: jadepoiskls/jadepoiskls.github.io
+  github: jadepoiskls
   instagram:
-  linkedin:
-  pinterest:
+  linkedin: poisk-ls
+  pinterest: poisk-ls
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: poiskls
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
