@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Download Mod Games [jadepoiskls.blogspot.com](https://jadepoiskls.blogspot.com)
+Download Mod Games [here](https://jadepoiskls.blogspot.com)
+----
 
 ### More Information
 
 This is not a place for you.. 
+
 
 ### Contact me
 
