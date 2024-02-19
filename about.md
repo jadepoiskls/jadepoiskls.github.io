@@ -15,6 +15,6 @@ Download HD Movies [here](https://poisklss.blogspot.com)
 This is not a place for you.. 
 
 
-### Contact me
+### Get in Touch
 
-[jadepoisk@gmail.com](mailto:jadepoisk@gmail.com)
+[mail me](mailto:jadepoisk@gmail.com)
