@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Download Mod Games [here](https://jadepoiskls.blogspot.com)
+You can visit my site here:
 
-Download HD Movies [here](https://poisklss.blogspot.com)
-----
+- `Download Mod Games [here](https://jadepoiskls.blogspot.com)`
+- `Download HD Movies [here](https://poisklss.blogspot.com)`
+
 
 ### More Information
 
